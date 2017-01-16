@@ -1,0 +1,20 @@
+[submodule "sandworm-images"]
+	path = sandworm-images
+	url = ../sandworm-images
+	branch = master
+[submodule "sandworm-logger"]
+	path = sandworm-logger
+	url = ../sandworm-logger
+	branch = master
+[submodule "sandworm-packer"]
+	path = sandworm-packer
+	url = ../sandworm-packer
+	branch = master
+[submodule "sandworm-packer-web"]
+	path = sandworm-packer-web
+	url = ../sandworm-packer-web
+	branch = master
+[submodule "sandworm-scheduler"]
+	path = sandworm-scheduler
+	url = ../sandworm-scheduler
+	branch = master
