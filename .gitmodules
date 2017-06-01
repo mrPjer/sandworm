@@ -18,3 +18,7 @@
 	path = sandworm-scheduler
 	url = ../sandworm-scheduler
 	branch = master
+[submodule "sandworm-whitepaper"]
+	path = sandworm-whitepaper
+	url = ../sandworm-whitepaper
+	branch = master
